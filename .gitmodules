@@ -1,0 +1,3 @@
+[submodule "MEC"]
+	path = MEC
+	url = https://github.com/BlokasLabs/MEC
