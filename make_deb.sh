@@ -9,6 +9,6 @@ cp $BUILD_DIR/lib/*.so debian/usr/lib/MEC/
 
 gzip --best -n ./debian/usr/share/doc/mec/changelog ./debian/usr/share/doc/mec/changelog.Debian ./debian/usr/share/man/man1/mec.1
 fakeroot dpkg --build debian
-mv debian.deb mec.deb
+mv debian.deb mec-blokas.deb
 gunzip `find . | grep gz` > /dev/null 2>&1
 
