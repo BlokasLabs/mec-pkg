@@ -1,4 +1,10 @@
-mec (0.1.1-1)
+mec-blokas (0.1.1-2)
+
+* Removed optimization flags from the build which caused crashes on Jessie.
+
+-- Giedrius Trainavičius <giedrius@blokas.io> Sun, 17 Jun 2018 11:16:13 +0200
+
+mec-blokas (0.1.1-1)
 
 * Initial .deb packaged release.
 
