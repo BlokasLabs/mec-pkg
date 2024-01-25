@@ -1,9 +1,0 @@
-Package: mec-blokas
-Version: 0.1.1-2
-Section: sound
-Priority: optional
-Architecture: armhf
-Depends: libc6 (>= 2.19), libgcc1 (>= 1:4.9.2-10)
-Maintainer: Blokas Labs <hello@blokas.io>
-Description: MEC server
- See https://github.com/TheTechnobear/MEC/ for more information.
